@@ -2,21 +2,23 @@
 
 <h1>Hi, I'm Elizabeth! 🪷</h1>
 
-<!-- Typing animation -->
-<a href="https://github.com/eelizabethho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=CS+student+%40+Virginia+Tech;SWE+Intern+%40+AWS;Building+products+people+actually+love+💗" alt="Typing SVG" />
-</a>
-
 <p>
-I'm a Computer Science student at Virginia Tech, and I'm especially interested in the product side of tech. 
-I'm always curious about how we can build meaningful products that actually enhance people's everyday lives!
+I'm a Computer Science student at Virginia Tech with a minor in Human-Computer Interaction. 
+I care a lot about the product side of tech and building things that actually make people's everyday lives better.
 </p>
 
 <p>
-👩🏻‍💻 Software Engineering Intern @ AWS <br>
-👩🏻‍🎓 Computer Science student at Virginia Tech <br>
-💭 Currently learning about operating systems especially macOS
+Right now I'm really interested in agentic workflows, basically teams of AI agents working together, 
+like running agents in parallel or delegating work to subagents. Coming to AWS for my second internship, 
+I noticed how most people don't use AI like a chatbot, they use AI in more complex ways than i imagine and that's what sparked my curiostiy to build.
 </p>
+
+<p>
+👩🏻‍💻 Software Engineering Intern @ AWS, <a href="https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html">Signer team</a> <br>
+👩🏻‍🎓 CS @ Virginia Tech, minor in Human-Computer Interaction <br>
+🤖 Currently learning: agentic workflow systems
+</p>
+
 
 <!-- Contact badges -->
 <a href="mailto:eelizabethhowork@gmail.com">
@@ -37,25 +39,32 @@ I'm always curious about how we can build meaningful products that actually enha
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,aws,git,linux" />
 </a>
 
-<!-- What I'm building -->
-<h3>🌱 What I'm building</h3>
-<ul>
-  <li><b>Project one</b> — one-liner about the problem it solves</li>
-  <li><b>Project two</b> — one-liner about the problem it solves</li>
-</ul>
+<!-- Projects -->
+
+<h3>🚧 What I'm currently working on</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗺️ Commute Time Estimator</h4>
+      <p>A Google Maps add-on that reads your plans and tells you how long your 
+      commute will actually be. Know when to leave before you're already running late.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 AI Package Reader</h4>
+      <p>Feed it any code package and it explains how the whole thing works. 
+      Like having a senior engineer walk you through an unfamiliar codebase.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- Stats -->
 <h3>📊 My GitHub stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eelizabethho&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=eelizabethho&theme=rose-pine&hide_border=true" height="165" />
 </p>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eelizabethho&theme=rosebud&hide_border=true" width="100%" />
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=eelizabethho&theme=nord&no-frame=true&row=1&column=6" width="100%" />
 
 <!-- Snake -->
 <picture>

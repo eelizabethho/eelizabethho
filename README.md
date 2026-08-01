@@ -3,20 +3,22 @@
 <h1>Hi, I'm Elizabeth! 🪷</h1>
 
 <p>
-I'm a Computer Science student at Virginia Tech with a minor in Human-Computer Interaction. 
+I'm a Computer Science student at Virginia Tech with a minor in Human-Computer Interaction.
 I care a lot about the product side of tech and building things that actually make people's everyday lives better.
 </p>
 
 <p>
-Right now I'm really interested in agentic workflows, basically teams of AI agents working together, 
-like running agents in parallel or delegating work to subagents. Coming to AWS for my second internship, 
-I noticed how most people don't use AI like a chatbot, they use AI in more complex ways than i imagine and that's what sparked my curiostiy to build.
+Right now I'm really interested in agentic workflows &mdash; teams of AI agents working together,
+running in parallel or delegating work to subagents. Doing my second internship at AWS, I noticed
+most people don't use AI like a chatbot; they use it in more complex ways than I imagined, and
+that's what sparked my curiosity to build.
 </p>
 
 <p>
-👩🏻‍💻 Software Engineering Intern @ AWS, <a href="https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html">Signer team</a> <br>
-👩🏻‍🎓 CS @ Virginia Tech, minor in Human-Computer Interaction <br>
-🤖 Currently learning: agentic workflow systems
+👩🏻‍💻 2× SDE Intern @ AWS &mdash; <a href="https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html">Signer</a> (Summer 2026), AWS Cryptography (Summer 2025) <br>
+👩🏻‍🎓 CS @ Virginia Tech, minor in Human-Computer Interaction (expected Dec 2027) <br>
+🤖 Currently learning: agentic workflow systems <br>
+🔍 Seeking: Summer 2027 SWE internships
 </p>
 
 
@@ -27,7 +29,7 @@ I noticed how most people don't use AI like a chatbot, they use AI in more compl
 <a href="https://www.linkedin.com/in/eelizabethho/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://eelizabethho.com/" target="_blank">
+<a href="https://eelizabethho.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -36,24 +38,26 @@ I noticed how most people don't use AI like a chatbot, they use AI in more compl
 <!-- Skills -->
 <h3>🛠️ Tools I work with</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,aws,git,linux" />
 </a>
 
 <!-- Projects -->
 
-<h3>🚧 What I'm currently working on</h3>
+<h3>🚀 Recent projects</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗺️ Commute Time Estimator</h4>
-      <p>A Google Maps add-on that reads your plans and tells you how long your 
-      commute will actually be. Know when to leave before you're already running late.</p>
+      <h4>🎨 Make-a-Moji</h4>
+      <p>A GenAI kiosk that teaches kids ages 4–6 the basics of AI prompting.
+      Kids describe an emoji, watch an LLM refine the prompt, and take home a
+      printed sticker. Ran live at AWS Kids Day 2026 &mdash; 365+ stickers in one day.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>📦 AI Package Reader</h4>
-      <p>Feed it any code package and it explains how the whole thing works. 
-      Like having a senior engineer walk you through an unfamiliar codebase.</p>
+      <h4>🎙️ <a href="https://clari-ai.vercel.app">Clari AI</a></h4>
+      <p>A serverless full-stack web app that gives you AI feedback on your
+      interview practice recordings. Upload audio, get evaluated on clarity,
+      confidence, and delivery. Built solo &mdash; <a href="https://clari-ai.vercel.app">live at clari-ai.vercel.app</a>.</p>
     </td>
   </tr>
 </table>

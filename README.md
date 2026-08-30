@@ -4,25 +4,23 @@
 
 <p>
 I'm a Computer Science student at Virginia Tech with a minor in Human-Computer Interaction.
-I care a lot about the product side of tech and building things that actually make people's everyday lives better.
+I'm interested in building systems that combine strong technical foundations with practical user impact.
 </p>
 
 <p>
-Right now I'm really interested in agentic workflows &mdash; teams of AI agents working together,
-running in parallel or delegating work to subagents. Doing my second internship at AWS, I noticed
-most people don't use AI like a chatbot; they use it in more complex ways than I imagined, and
-that's what sparked my curiosity to build.
+Right now I'm especially interested in agentic workflows, developer tools, cloud systems, and how AI can be integrated into real products beyond traditional chatbot interfaces.
+My experiences at AWS sparked a lot of my curiosity around distributed systems, AI-assisted development, and building tools that can reason over complex workflows.
 </p>
 
 <p>
 👩🏻‍💻 2× SDE Intern @ AWS &mdash; <a href="https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html">Signer</a> (Summer 2026), AWS Cryptography (Summer 2025) <br>
 👩🏻‍🎓 CS @ Virginia Tech, minor in Human-Computer Interaction (expected Dec 2027) <br>
-🤖 Currently learning: agentic workflow systems <br>
+🤖 Currently exploring: agentic workflows, cloud systems, and AI developer tooling <br>
 🔍 Seeking: Summer 2027 SWE internships
 </p>
 
-
 <!-- Contact badges -->
+
 <a href="mailto:eelizabethhowork@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
@@ -36,41 +34,55 @@ that's what sparked my curiosity to build.
 <br><br>
 
 <!-- Skills -->
+
 <h3>🛠️ Tools I work with</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,ts,js,react,nextjs,aws,gcp,docker,git,linux" />
 </a>
 
 <!-- Projects -->
 
 <h3>🚀 Recent projects</h3>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Make-a-Moji</h4>
-      <p>A GenAI kiosk that teaches kids ages 4–6 the basics of AI prompting.
-      Kids describe an emoji, watch an LLM refine the prompt, and take home a
-      printed sticker. Ran live at AWS Kids Day 2026 &mdash; 365+ stickers in one day.</p>
+      <h4>🚌 Raptor Transit <i>[In Progress]</i></h4>
+      <p>
+      A calendar-aware public-transit planner that computes multi-stop,
+      multi-transfer journeys from real GTFS data and recommends when users
+      should leave to arrive at scheduled events on time.
+      </p>
+      <p>
+      Built around a RAPTOR routing engine in Go and being extended with
+      GTFS-Realtime, Google Cloud, and reliability-aware route ranking.
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ <a href="https://clari-ai.vercel.app">Clari AI</a></h4>
-      <p>A serverless full-stack web app that gives you AI feedback on your
-      interview practice recordings. Upload audio, get evaluated on clarity,
-      confidence, and delivery. Built solo &mdash; <a href="https://clari-ai.vercel.app">live at clari-ai.vercel.app</a>.</p>
-    </td>
+<td width="50%" valign="top">
+  <h4>🧩 Package Explorer <i>[In Progress]</i></h4>
+  <p>
+  An AI-assisted codebase analysis tool that maps package and file
+  dependencies to help developers understand unfamiliar repositories
+  and reason about the impact of code changes.
+  </p>
+  <p>
+  Uses Tree-sitter for static analysis, interactive dependency graphs,
+  and MCP-based tools that expose structured repository context to AI
+  coding agents.
+  </p>
+</td>
+
   </tr>
 </table>
 
 <!-- Stats -->
+
 <h3>📊 My GitHub stats</h3>
 <p>
   <img src="https://streak-stats.demolab.com?user=eelizabethho&theme=rose-pine&hide_border=true" height="165" />
 </p>
 
-
-
 <!-- Snake -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eelizabethho/eelizabethho/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eelizabethho/eelizabethho/output/github-snake.svg" />
